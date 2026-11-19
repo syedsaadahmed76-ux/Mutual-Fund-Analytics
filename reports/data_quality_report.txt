@@ -1,0 +1,23 @@
+
+MUTUAL FUND ANALYTICS
+DAY 1 - DATA QUALITY REPORT
+
+1. Dataset ingestion
+   10 CSV datasets loaded.
+
+2. NAV History
+   40,000 records inspected.
+   Columns: amfi_code, date, nav.
+
+3. AMFI Scheme Code Validation
+   Fund Master unique codes: 40
+   NAV History unique codes: 40
+   Matching codes: 40
+   Missing codes: 0
+
+4. Data Quality
+   All 40 scheme codes matched.
+   No missing scheme codes found.
+
+5. Status
+   AMFI validation completed.
