@@ -16,3 +16,9 @@ venv/
 # Temporary files
 *.log
 .DS_Store
+
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
