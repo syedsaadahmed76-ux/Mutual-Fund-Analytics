@@ -1,0 +1,2 @@
+SELECT * FROM dim_fund
+LIMIT 10;
